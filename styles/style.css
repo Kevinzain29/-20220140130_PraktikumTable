@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ML{
+    background-color: lightcoral;
+    margin: 70px;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    padding: 15px;
+    text-align: left;
+    background-color: aquamarine;
+}
+
+td {
+    padding: 20px;
+    text-align: left;
+}
+
+tr{
+    background-color: antiquewhite;
+}
